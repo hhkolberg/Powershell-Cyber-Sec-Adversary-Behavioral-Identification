@@ -1,6 +1,6 @@
 # Powershell-Cyber-Sec-Adversary-Behavioral-Identification
 # This list of scripts is an example on how to have your system doing a manual ABI if your systems fail, need a manual layer or just try it out for fun. 
-# See the description below
+See the description below
 #
 #
 #
